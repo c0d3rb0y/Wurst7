@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "id": "wurst",
-  "version": "${version}",
-
-  "name": "Wurst Client",
+  "version": "v7.2-MC1.16.1",
+  "name": "Wurst-2o2s Client",
   "description": "Wurst Wurst Wurst!",
   "authors": [
-    "Alexander01998"
+    "Alexander01998",
+    "MeowsoftStudios"
   ],
   "contact": {
     "homepage": "https://www.wurstclient.net/",
